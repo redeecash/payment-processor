@@ -13,7 +13,7 @@ Payment processing is transfered to the payment processor which verifies the PAN
 ## Regulatory
 Even though the payment processor does not hold customer funds as any time, under the current regulations they are still considered a money transamitter/money service business, requiring a 50 state license.
 
-Howvere under FINCEN definition of a Money Service Business at [](https://www.fincen.gov/money-services-business-definition), 
+Howvere under FINCEN definition of a Money Service Business at [https://www.fincen.gov/money-services-business-definition](https://www.fincen.gov/money-services-business-definition), 
 
 Notwithstanding the previous discussion, the term "money services business" does not include:
 
